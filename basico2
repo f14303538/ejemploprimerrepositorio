@@ -16,3 +16,5 @@ url: http://192.168.99.100:32770/
 http://192.168.99.100:32771/
 
 para conectar eclipse con el sonar: settings.xml en .m2..--> crearlo sino existte
+
+subir pie pagina
